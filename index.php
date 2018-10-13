@@ -4,6 +4,6 @@
 	<title>henry app</title>
 </head>
 <body>
-ok
+<?php echo 'ok men'; ?>
 </body>
 </html>
